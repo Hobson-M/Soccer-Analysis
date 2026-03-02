@@ -4,3 +4,4 @@ Preference include:
 2. Last 6, 5, 4, 3, 2, 1 games where total corners have been 7 or less.
 3. Last 6, 5, 4, 3, 2, 1 games where total goals have been 2 or less.
 4.  Last 6, 5, 4, 3, 2, 1 games where total goals first half is 0  goals.
+5.  Last 6, 5, 4, 3, 2, 1 games where total goals second half is 0  goals.
