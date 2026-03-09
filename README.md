@@ -6,3 +6,4 @@ Preference include:
 4.  Last 6, 5, 4, 3, 2, 1 games where total goals first half is 0  goals.
 5.  Last 6, 5, 4, 3, 2, 1 games where total goals second half is 0  goals.
 Last 6, 5, 4, 3, 2, 1 games where total goals second half is 0 goals.
+ Last 6, 5, 4, 3, 2, 1 games where total goals second half is 0 goals.
